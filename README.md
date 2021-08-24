@@ -2,4 +2,4 @@
 
 https://www.sitepoint.com/build-javascript-countdown-timer-no-dependencies/
 
-https://codepen.io/SitePoint/pen/MwNPq/  
+https://codepen.io/SitePoint/pen/MwNPVq
